@@ -1,9 +1,10 @@
-function fonte(e){
-	var elemento 	= $(".acessibilidade");
-	var fonte 		= elemento.css('font-size');
-	if (e == 'a') {
-		elemento.css("fontSize", parseInt(fonte) + 1);
-	} else if('d'){
-		elemento.css("fontSize", parseInt(fonte) - 1);
-	}
+function fonte(e) {
+
+	var elemento = $(".acessibilidade");
+	var fonte = parseInt(elemento.css('font-size'));
+	
+	e == 'a' ? fonte++ : fonte--;
+
+	elemento.css("fontSize", fonte);
+	
 }
