@@ -24,4 +24,5 @@ Veja como é simples implementar em seu site.
 ```
 
 ### [Exemplo](https://lucianobragaweb.github.io/acessibilidade)
-
+* [English Post](https://medium.com/lucianobraga/adad1a4f21d6)
+* [Artigo em Português](https://medium.com/lucianobragaweb/bdadc6b3b775)
